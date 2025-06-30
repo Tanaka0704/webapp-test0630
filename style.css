@@ -1,1 +1,5 @@
 @charset "UTF-8";
+ h1 {
+    color: rgb(90, 62, 246);
+    font-weight: bold;
+ }
